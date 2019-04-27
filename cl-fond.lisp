@@ -1,6 +1,4 @@
-#+nil (ql:quickload '(:cepl.sdl2 :rtg-math :rtg-math.vari :cl-fond))
-(defpackage :moo (:use :cl :cepl :vari :rtg-math :rtg-math.vari))
-(in-package :moo)
+(in-package :play-with-fond)
 
 ;;------------------------------------------------------------
 
