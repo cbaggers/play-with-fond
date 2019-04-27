@@ -10,4 +10,5 @@
                #:rtg-math.vari
                #:cl-fond)
   :components ((:file "package")
-               (:file "cl-fond")))
+               (:file "cl-fond")
+               (:file "cl-fond2")))
